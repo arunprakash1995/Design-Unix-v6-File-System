@@ -1,0 +1,1 @@
+ File Name : file2.txt Tpye : External text file Contents : This file is the external
